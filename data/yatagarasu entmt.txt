@@ -1,0 +1,18 @@
+{
+    "id": 57436521,
+    "name": "Yatagarasu Entertainment",
+    "author": "Sebby",
+    "creators": ["Sebby", "Hex"],
+    "verifier": "Sebby",
+    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "percentToQualify": 80,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
