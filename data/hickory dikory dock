@@ -1,0 +1,18 @@
+{
+    "id": 104434071,
+    "name": "hickory dikory dock",
+    "author": "Hex",
+    "creators": ["Hex"],
+    "verifier": "kj07",
+    "verification": "https://youtu.be/R70LKJ7fWc0",
+    "percentToQualify": 80,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
