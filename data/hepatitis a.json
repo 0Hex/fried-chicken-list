@@ -1,0 +1,18 @@
+{
+    "id": 57436521,
+    "name": "Hepatitis A",
+    "author": "Hex",
+    "creators": ["Hex"],
+    "verifier": "Hex",
+    "verification": "https://youtu.be/ks8IeSapyG4",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
