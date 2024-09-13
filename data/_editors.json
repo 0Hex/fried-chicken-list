@@ -6,6 +6,11 @@
     },
     {
         "role": "admin",
+        "name": "Sebby",
+        "link": "https://www.tiktok.com/@finyland"
+    },
+    {
+        "role": "admin",
         "name": "Finland",
         "link": "https://www.tiktok.com/@finyland"
     },
@@ -21,17 +26,12 @@
     },
     {
         "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
-    {
-        "role": "trial",
-        "name": "Trial List Helper",
+        "name": "Spy",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
         "role": "dev",
-        "name": "List Coder",
+        "name": "Hex",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     }
 ]
